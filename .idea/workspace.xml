@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e7ca53-33e8-4333-a481-393cba4055c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gameplay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements.html" afterPath="$PROJECT_DIR$/elements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic.html" afterPath="$PROJECT_DIR$/generic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -338,6 +332,14 @@
       <option name="presentableId" value="Default" />
       <updated>1530882351197</updated>
     </task>
+    <task id="LOCAL-00001" summary="Better front page and 404 page">
+      <created>1531252580269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531252580269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,6 +373,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Better front page and 404 page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Better front page and 404 page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
